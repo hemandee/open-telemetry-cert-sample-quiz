@@ -2,10 +2,13 @@
 
 A web-based quiz application for the OpenTelemetry Certified Associate (OTCA) exam preparation.
 
+## Usage
+
+**Online:** Visit the live quiz at [GitHub Pages]([https://github.com/hemandee/open-telemetry-cert-sample-quiz/quiz.html](https://hemandee.github.io/open-telemetry-cert-sample-quiz/quiz.htm))
 ## About
 
-This quiz app is based on the official practice questions from the CNCF OpenTelemetry Certified Associate exam repository:
-https://gitlab.com/cncf-exams/opentelemetry-certified-associate-otca/-/blob/main/5.%20Practice%20Exam.md
+This quiz app is based on the official practice questions from the CNCF OpenTelemetry Certified Associate exam [repository](https://gitlab.com/cncf-exams/opentelemetry-certified-associate-otca/-/blob/main/5.%20Practice%20Exam.md)
+
 
 ## Features
 
@@ -15,9 +18,7 @@ https://gitlab.com/cncf-exams/opentelemetry-certified-associate-otca/-/blob/main
 - Detailed explanations for each answer
 - Responsive design for desktop and mobile
 
-## Usage
 
-**Online:** Visit the live quiz at [GitHub Pages](https://github.com/hemandee/open-telemetry-cert-sample-quiz/quiz.html)
 
 **Local:**
 
