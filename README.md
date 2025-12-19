@@ -4,7 +4,7 @@ A web-based quiz application for the OpenTelemetry Certified Associate (OTCA) ex
 
 ## Usage
 
-**Online:** Visit the live quiz at [GitHub Pages]([https://github.com/hemandee/open-telemetry-cert-sample-quiz/quiz.html](https://hemandee.github.io/open-telemetry-cert-sample-quiz/quiz.htm))
+**Online:**:  Visit the live quiz at [GitHub Pages](https://hemandee.github.io/open-telemetry-cert-sample-quiz/quiz.html)
 
 ## About
 
